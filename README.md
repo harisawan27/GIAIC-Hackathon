@@ -15,7 +15,7 @@ This project was built using **HTML**, **CSS**, and **TypeScript**, and is deplo
 
 ## Live Demo
 
-Check out the live demo of the project here:
+Check out the live demo of the project here: https://my-interactive-resume.vercel.app/
 ## Technologies Used
 
 - **HTML5**: For structuring the content.
